@@ -28,7 +28,7 @@ public class HomeActivity extends AppCompatActivity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-        System.out.print("nihao");
+        System.out.print("");
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
